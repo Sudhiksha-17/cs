@@ -1,0 +1,43 @@
+h1 {
+color:#759b9e;
+text-align: center;
+border: 4px solid #a3a36a
+ }
+ p {
+   font-family: Arial, sans-serif;
+   font-size: 32px;
+   font-weight: bold;
+   color:#5f4178;
+
+ }
+div{
+  background-color:#505c4a;
+  height: 100px;
+  width: 600px;
+  margin:40px;
+  padding:30px;
+}
+table {
+  border: 5px dotted #a36a6a;
+  border-collapse: collapse;
+  width:40%px;
+}
+th,td {
+  border: 3px solid #b1a3cc;
+  background-color:#913665;
+  padding: 3px;
+}
+#top {
+  font-size:36px;
+  background-color: #a67979
+}
+#middle{
+  font-size:24px;
+  color: turquoise;
+}
+#bottom{
+  font-size:18px;
+}
+.name {
+  font-weight: bold;
+}
