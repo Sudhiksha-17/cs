@@ -41,3 +41,14 @@ th,td {
 .name {
   font-weight: bold;
 }
+button{
+  text-decoration-color: pink;
+  font-size: 30px;
+  background-color: teal;
+  border: 3px dotted skyblue;
+  font-family: serif: Times;
+  text-align: center;
+}
+button:hover{
+  background-color: Green;
+}
