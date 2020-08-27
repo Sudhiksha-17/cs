@@ -1,3 +1,7 @@
+body{
+  color: cyan;
+  background-color: lightgreen;
+}
 h1 {
 color:#759b9e;
 text-align: center;
@@ -8,6 +12,9 @@ border: 4px solid #a3a36a
    font-size: 32px;
    font-weight: bold;
    color:#5f4178;
+ }
+ ul,ol{
+   color: grey;
  }
 div{
   background-color:#505c4a;
@@ -30,12 +37,16 @@ th,td {
   font-size:36px;
   background-color: #a67979
 }
+#top:hover{
+  background-color: pink;
+}
 #middle{
   font-size:24px;
-  color: turquoise;
+  color: black;
 }
 #bottom{
   font-size:18px;
+  color: Purple;
 }
 .name {
   font-weight: bold;
